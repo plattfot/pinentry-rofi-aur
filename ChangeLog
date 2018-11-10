@@ -1,0 +1,11 @@
+2018-11-10 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.3.0 :
+	Removed dependency on systemd
+	Works with gpg
+	Removed conflict with pinentry-rofi
+2018-11-04 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.2.0 :
+	Forcing the output.
+2018-11-04 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.1.0 :
+	Initial release. Matching functionality as the pinentry-rofi gist.
