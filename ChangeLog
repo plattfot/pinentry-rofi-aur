@@ -1,3 +1,7 @@
+2019-06-06 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.4.0 :
+	Removed compiling of script
+	Behaves better with the REPL
 2018-11-10 Fredrik Salomonsson <plattfot@gmail.com>
 	* 0.3.0 :
 	Removed dependency on systemd
