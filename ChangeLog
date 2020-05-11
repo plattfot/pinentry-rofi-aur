@@ -1,3 +1,9 @@
+2020-05-11 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.0.0:
+	Added unit tests
+	Added support for popup
+	Added support for underline characters in message.
+	Fixed high CPU usage bug - thanks to em0lar and n0emis
 2020-04-21 Fredrik Salomonsson <plattfot@gmail.com>
 	* 0.5.0 :
 	Added support to ask again if password is wrong
