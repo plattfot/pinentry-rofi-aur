@@ -1,4 +1,8 @@
 2020-05-11 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.0.1:
+	Propper newline between error and description
+	More unit test coverage
+	Fixed hang when run via gpg, that was introduced in 1.0.0
 	* 1.0.0:
 	Added unit tests
 	Added support for popup
