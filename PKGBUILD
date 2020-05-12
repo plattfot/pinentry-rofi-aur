@@ -1,6 +1,6 @@
 # Maintainer: Fredrik Salomonsson <plattfot@gmail.com>
 pkgname=pinentry-rofi-guile
-pkgver=1.0.1
+pkgver=1.0.2
 pkgrel=1
 epoch=
 pkgdesc="rofi frontend for pinentry"
